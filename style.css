@@ -1,0 +1,176 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.container{
+    margin-bottom: 100px;
+}
+#logo{
+    position: absolute;
+    width: 198.07px;
+    height: 59px;
+    left: 212px;
+    top: 30px;
+
+}
+.nav{
+    margin-right: 200px;
+    }
+.nav li{
+    margin-top: 20px;
+}
+.nav-link{
+    color: black;
+}
+.buttons{
+    color: white;
+    background-color: #21b573;
+    padding: 10px 25px;
+    border: none;
+    border-radius: 30px;
+}
+.firstsection{
+    background-color:#f0fff0;
+    width: 1440px;
+    height: 576px;
+   
+}
+.fourthsection{
+    margin-top: 600px;
+    margin-left: 210px;
+    border-radius: 60px;
+}
+.extrasec{
+    padding: 50px 50px;
+    border-radius: 30px;
+}
+.fifthsection{
+    margin-top: 100px;
+}
+.firstcolume{
+    position: absolute;
+    left: 205px;
+    top: 179px;
+  
+}
+.learncolor{
+    color: #FD511A;
+}
+.schedulecolor{
+    color: #21B573;
+}
+.grayfonts{
+    color: #6C6B6B;
+}
+.secondcolume{
+    position: absolute;
+    left: 691px;
+    top: 157px;
+}
+#illustration{
+    width: 554px;
+    height: 346px;
+}
+.card-deck{
+    position: absolute;
+
+    left: 200px;
+    top: 618px;
+}
+.cd1{
+    width: 270px;
+    height: 270px
+}
+.color1{
+    background: #F8FFFB;
+    border-radius: 10px;
+}
+.color2{
+    background: #FFFFFF;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+.icon{
+    position: absolute;
+    width: 66px;
+    height: 85px;
+    margin: 20px 90px;
+}
+.purplefonts{
+color: #413960;
+}
+.cb1{
+    margin-top: 150px;
+}
+.thirdsection{
+    margin-top: 400px;
+}
+.cd2{
+    
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 18px;
+}
+.morder{
+    border-radius: 11px;
+    padding: 25px 20px;
+}
+
+.Testimonialtext{
+    position: absolute;
+
+right: 100px;
+
+}
+.lastpicture{
+    padding: 20px 70px;
+}
+.manphoto{
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    left: 353px;
+}   
+footer{
+    position: absolute;
+width: 1463px;
+height: 369px;
+top: 2800px;
+
+background: #282531;
+}
+.footer{
+    color: white;
+    position: absolute;
+    
+    left:200px;
+    top: 55px;
+}
+.list-one{
+    position: absolute;
+    left: 633px;
+    top:62px;
+}
+.footerlink{
+    color: white;
+}
+.list-two{
+    position: absolute;
+   
+    left: 897px;
+    top: 62px;
+
+}
+.list-three{
+    position: absolute;
+    
+    left: 1181px;
+    top: 62px;
+
+}
+.copyright{
+    position: absolute;
+    left: 592px;
+    top: 300px;
+}
+.extrasec{
+    size: 10%;
+}
